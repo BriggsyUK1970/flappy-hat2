@@ -1,0 +1,12 @@
+/*
+ * SPDX-FileCopyrightText: 2023 Dominik Wombacher <dominik@wombacher.cc>
+ * SPDX-FileCopyrightText: 2018 Igor Rozani
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
+body { margin: 0px }
+@font-face {
+    font-family: "GajrajOne";
+    src: url("../assets/GajrajOne-Regular.ttf") format("truetype");
+}
